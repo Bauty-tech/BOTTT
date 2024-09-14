@@ -1,0 +1,13 @@
+{
+	"client": {
+		"host": "Huevosdibu1.aternos.me",
+		"port": "54687",
+		"username": "Bot247A"
+	},
+	"logLevel": ["error", "log", "debug"],
+	"action": {
+		"commands": ["forward", "back", "left", "right", "jump"],
+		"holdDuration": 5000,
+		"retryDelay": 15000
+	}
+}
